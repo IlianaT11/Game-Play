@@ -1,3 +1,4 @@
 # Game-Play
 This is an simple console game " Rock Paper Scissors"
-test
+test \n
+new text
